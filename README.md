@@ -34,7 +34,7 @@
 ## 📫 Contato
 
 - 📧 Email: [robertolopes2006321@email.com](robertolopes2006321@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/roberto-lopes-47922b256/)
 
 ---
 
