@@ -9,7 +9,7 @@
 
 - 💼 Atualmente trabalhando como: **contador**
 - 🌱 Aprendendo: **React**
-- 🔍 Sempre interessado em **[MELHORAR]**
+- 🔍 Bom, devo estar sempre melhor do que **ontem**
 - 🛠️ Ferramentas favoritas: `VS Code`, `Git`
 - 🗣️ Idiomas: `Português (nativo)`, `Inglês (basico)`
 
